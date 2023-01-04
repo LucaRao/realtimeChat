@@ -153,7 +153,7 @@ Yarn
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/zernonia/supabase-realtime-playground.git
+   git clone git@github.com:LucaRao/realtimeChat.git
    ```
 2. Install NPM packages
    ```sh
